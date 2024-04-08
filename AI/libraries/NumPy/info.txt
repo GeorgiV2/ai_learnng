@@ -1,0 +1,37 @@
+NumPy Course:
+
+Introduction to NumPy:
+
+Getting Started with NumPy:
+
+Introduction to NumPy arrays.
+Creating arrays, array indexing, and slicing.
+Basic array operations.
+NumPy Functions and Operations:
+
+Mathematical functions: np.sin(), np.cos(), np.exp(), etc.
+Aggregation functions: np.sum(), np.mean(), np.max(), etc.
+Array manipulation functions: np.reshape(), np.concatenate(), etc.
+
+Advanced NumPy:
+
+Broadcasting and Vectorization:
+
+Understanding broadcasting rules.
+Writing vectorized operations for efficient computations.
+Indexing and Slicing:
+
+Advanced indexing techniques: boolean indexing, fancy indexing.
+Slicing multi-dimensional arrays.
+Practical Applications:
+Data Manipulation with NumPy:
+
+Loading and saving data with NumPy.
+Data preprocessing techniques using NumPy arrays.
+NumPy and Data Science:
+
+Introduction to statistical operations with NumPy.
+Using NumPy for data analysis and visualization.
+Short Task:
+Task: Create a NumPy array of shape (3, 3) containing random integers between 1 and 10. 
+Then, compute the mean and standard deviation of the array.
